@@ -7,7 +7,7 @@ body{
     text-align: center;
     background-color: aquamarine;
 }
-second.header {
+.second-header {
     font-size: 40px;
     color: darkmagenta;
 }
@@ -21,7 +21,14 @@ main.header{
 }
 .third{
       text-align: center;
-    margin: 50px;
+    align-items: center;
+    margin: 40px;
+}
+
+.img{
+    padding: 40px 40px 40px 40px;
+
+
 }
 
 
