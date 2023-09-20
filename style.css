@@ -16,3 +16,42 @@ h1{
 .background{
     margin: 60px auto;
 }
+
+.black{
+    color: black;
+    border: 3px solid black;
+    text-align: center;
+    margin-top: 20px;
+}
+.omar{
+    margin-left: 400px;
+}
+.yummy{
+    text-align: center;
+    border: 3px solid black;
+}
+body{
+    font-family: 'Croissant One', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    color: blueviolet;
+      
+}
+.igottoomanyclasses{
+    align-items: center;
+    margin-left: 520px;
+    margin-top: 100px;
+    padding: 40px 40px 40px 40px;
+
+
+}
+
+.under{
+    text-align: center;
+    font-size: 20px;
+    border: 3px solid black;
+}
+.yes{
+    margin-left: 600px;
+    
+}
