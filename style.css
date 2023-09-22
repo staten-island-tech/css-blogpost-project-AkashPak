@@ -1,8 +1,37 @@
+body{
+    background-color: azure;
+}
+
 h1{
-    font-size: 40px;
-    text-align:center;
+    color: blue;
+    text-align: center;
+    margin-left: 60px;
+
+}
+.main-header{
+    text-align: center;
+    margin-left: 60px;
+}
+
+.background{
+    margin: 60px auto;
+}
+
+.black{
+    color: black;
+    border: 3px solid black;
+    text-align: center;
+    margin-top: 20px;
+}
+.omar{
+    margin-left: 400px;
+}
+.yummy{
+    text-align: center;
+    border: 3px solid black;
 }
 body{
+<<<<<<< HEAD
     font-family: "Raleway", sans-serif;
     text-align: center;
     background-color: aquamarine;
@@ -29,7 +58,29 @@ main.header{
     padding: 40px 40px 40px 40px;
 
 
+=======
+    font-family: 'Croissant One', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    color: blueviolet;
+      
+>>>>>>> fa7545121f36a90fe2fd53432ceafa68736e2261
+}
+.igottoomanyclasses{
+    align-items: center;
+    margin-left: 520px;
+    margin-top: 100px;
+    padding: 40px 40px 40px 40px;
+
+
 }
 
-
+.under{
+    text-align: center;
+    font-size: 20px;
+    border: 3px solid black;
+}
+.yes{
+    margin-left: 600px;
     
+}
